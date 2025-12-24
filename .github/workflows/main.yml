@@ -24,5 +24,5 @@ jobs:
           context: Workflow-CI/MLProject
           file: Workflow-CI/MLProject/Dockerfile
           push: true
-          # GANTI 'febrianalif22' DENGAN USERNAME DOCKER HUB ANDA:
+          # GANTI 'febrian220205' DENGAN USERNAME DOCKER HUB ANDA:
           tags: febrian220205/rice-classification-project:latest
