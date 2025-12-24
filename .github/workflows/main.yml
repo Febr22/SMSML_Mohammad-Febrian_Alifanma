@@ -25,4 +25,4 @@ jobs:
           file: Workflow-CI/MLProject/Dockerfile
           push: true
           # GANTI 'febrianalif22' DENGAN USERNAME DOCKER HUB ANDA:
-          tags: febrianalif22/rice-project:latest
+          tags: febrian220205/rice-classification-project:latest
