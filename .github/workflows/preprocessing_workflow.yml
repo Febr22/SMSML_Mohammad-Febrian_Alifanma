@@ -26,7 +26,7 @@ jobs:
 
     # 4. Jalankan script preprocessing
     - name: Run Preprocessing Script
-      run: python preprocessing/automate_NamaAnda.py
+      run: python preprocessing/automate_Mohammad-Febrian_Alifanma.py
 
     # 5. Upload hasil preprocessing sebagai Artifact (Syarat "mengembalikan dataset")
     - name: Upload Processed Dataset
