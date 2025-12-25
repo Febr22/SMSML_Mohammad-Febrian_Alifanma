@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Moh%20Febrian%20Alifanma/Documents/SMSML_Mohammad-Febrian_Alifanma/Membangun_model/mlruns/407665005321574471/models/m-efea926bd2784574a5ad6dd21a20599e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.0
+model_id: m-efea926bd2784574a5ad6dd21a20599e
+model_size_bytes: 1593344
+model_uuid: m-efea926bd2784574a5ad6dd21a20599e
+prompts: null
+run_id: 974577973eb644bf8844b67b3ebac8e7
+utc_time_created: '2025-12-25 09:35:37.121781'
