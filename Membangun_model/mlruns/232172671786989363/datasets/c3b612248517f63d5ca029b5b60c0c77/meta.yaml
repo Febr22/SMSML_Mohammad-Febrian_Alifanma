@@ -1,0 +1,14 @@
+digest: a45d72e3
+name: dataset
+profile: '{"num_rows": 14548, "num_elements": 145480}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Area", "required": true},
+  {"type": "double", "name": "MajorAxisLength", "required": true}, {"type": "double",
+  "name": "MinorAxisLength", "required": true}, {"type": "double", "name": "Eccentricity",
+  "required": true}, {"type": "double", "name": "ConvexArea", "required": true}, {"type":
+  "double", "name": "EquivDiameter", "required": true}, {"type": "double", "name":
+  "Extent", "required": true}, {"type": "double", "name": "Perimeter", "required":
+  true}, {"type": "double", "name": "Roundness", "required": true}, {"type": "double",
+  "name": "AspectRation", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Moh Febrian Alifanma", "mlflow.source.name": ".\\modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "6b5d86883cd355aa6aee7b3ff3232f0e2dcb72a4"}}'
+source_type: code

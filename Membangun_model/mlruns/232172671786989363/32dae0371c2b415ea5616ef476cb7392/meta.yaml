@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/232172671786989363/32dae0371c2b415ea5616ef476cb7392/artifacts
+end_time: 1766656374745
+entry_point_name: ''
+experiment_id: '232172671786989363'
+lifecycle_stage: active
+run_id: 32dae0371c2b415ea5616ef476cb7392
+run_name: grandiose-carp-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766656357766
+status: 3
+tags: []
+user_id: Moh Febrian Alifanma
