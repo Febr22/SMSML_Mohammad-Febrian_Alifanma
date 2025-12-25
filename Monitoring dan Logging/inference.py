@@ -2,7 +2,7 @@ import requests
 import time
 import random
 
-url = "http://localhost:5000/predict"
+url = "http://localhost:5001/predict"
 
 print("Mulai mengirim data dummy ke API...")
 

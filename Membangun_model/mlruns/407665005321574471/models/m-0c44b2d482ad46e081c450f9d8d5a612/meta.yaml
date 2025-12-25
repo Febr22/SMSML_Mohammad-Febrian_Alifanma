@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Moh%20Febrian%20Alifanma/Documents/SMSML_Mohammad-Febrian_Alifanma/Membangun_model/mlruns/407665005321574471/models/m-0c44b2d482ad46e081c450f9d8d5a612/artifacts
+creation_timestamp: 1766662378680
+experiment_id: '407665005321574471'
+last_updated_timestamp: 1766662393729
+model_id: m-0c44b2d482ad46e081c450f9d8d5a612
+model_type: null
+name: model_rice_classifier
+source_run_id: db9e2517818a4212b0c1ec5f45ef07c2
+status: 2
+status_message: null

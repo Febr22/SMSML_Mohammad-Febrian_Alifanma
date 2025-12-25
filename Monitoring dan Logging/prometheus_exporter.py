@@ -126,7 +126,7 @@ if __name__ == '__main__':
     })
     
     print("Server Berjalan!")
-    print("Endpoint Prediksi: http://localhost:5000/predict")
-    print("Endpoint Metrics : http://localhost:5000/metrics")
-    
-    app.run(host='0.0.0.0', port=5000)
+    print("Endpoint Prediksi: http://localhost:5001/predict")
+    print("Endpoint Metrics : http://localhost:5001/metrics")
+
+    app.run(host='0.0.0.0', port=5001)
