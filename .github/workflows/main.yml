@@ -21,8 +21,8 @@ jobs:
       - name: Build dan Kirim ke Docker Hub
         uses: docker/build-push-action@v5
         with:
-          context: Workflow-CI/MLProject
-          file: Workflow-CI/MLProject/Dockerfile
+          context: Workflow-CI
+          file: Workflow-CI/Dockerfile
           push: true
           # GANTI 'febrian220205' DENGAN USERNAME DOCKER HUB ANDA:
           tags: febrian220205/rice-classification-project:latest
